@@ -1,6 +1,3 @@
-# Flipper-Zero-Snake
-Snake game leaderboard in Flipper Zero
-
 # LEADERBOARD
 
 1. 107 (u/Malocchioo)
@@ -12,3 +9,6 @@ Snake game leaderboard in Flipper Zero
 
 ------------------------------------------------------------------------------------------
 The leaderboard will be updated whenever there is a new score, of course with a legitimate photo.
+
+# Flipper-Zero-Snake
+Snake game leaderboard in Flipper Zero
