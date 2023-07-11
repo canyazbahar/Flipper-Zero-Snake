@@ -1,4 +1,4 @@
-# LEADERBOARD
+# WORLDWIDE LEADERBOARD
 
 1. 107 (u/Malocchioo)
 
