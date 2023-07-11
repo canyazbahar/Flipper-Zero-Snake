@@ -1,7 +1,7 @@
-Flipper-Zero-Snake
+# Flipper-Zero-Snake
 Leaderboards of Snake game in Flipper Zero
 
-#LEADERBOARD
+# LEADERBOARD
 
 1. 107 (u/Malocchioo)
 
