@@ -1,5 +1,5 @@
 # Flipper-Zero-Snake
-Leaderboards of Snake game in Flipper Zero
+Snake game leaderboard in Flipper Zero
 
 # LEADERBOARD
 
@@ -7,8 +7,8 @@ Leaderboards of Snake game in Flipper Zero
 
 2. 62 (u/NoMap3600)
 
-3. Waiting for new highest scores...
+3. Waiting for new high scores...
 
 
 ------------------------------------------------------------------------------------------
-Leaderboard will be updated whenever there is a new score, of course with a legitimate photo.
+The leaderboard will be updated whenever there is a new score, of course with a legitimate photo.
