@@ -10,5 +10,6 @@
 ------------------------------------------------------------------------------------------
 The leaderboard will be updated whenever there is a new score, of course with a legitimate photo.
 
-# Flipper-Zero-Snake
-Snake game leaderboard in Flipper Zero
+# Links
+1. https://www.reddit.com/r/flipperzero/comments/znyyau/flipper_zero_snake_game_highest_scores/
+2. https://www.reddit.com/user/NoMap3600/comments/14wn3bi/snake_game_in_flipper_zero/
